@@ -1,5 +1,5 @@
 'fileTypes': [
-  's'
+  's', 'asm'
 ]
 'name': '6502 Assembly (cc65)'
 'patterns': [
